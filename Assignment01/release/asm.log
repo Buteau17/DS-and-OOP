@@ -1,0 +1,68 @@
+﻿  mySystem_CubicFunction.cpp
+  mySystem_SineCosineFunction.cpp
+  basic_app.cpp
+  main.cpp
+  mySystem_MonteCarlo.cpp
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(122): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(126): warning C4305: '=' : 從 'double' 轉換為 'float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_MonteCarlo.cpp(126): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'mX' 之前)
+  mySystem_StudentRecordManager.cpp
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_StudentRecordManager.cpp(80): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystem_StudentRecordManager.cpp(97): error C2668: 'sqrt' : 模稜兩可的呼叫多載函式
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h(589): 可能是 'long double sqrt(long double)'
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h(541): 或       'float sqrt(float)'
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\math.h(127): 或       'double sqrt(double)'
+          當嘗試符合引數清單 '(int)' 時
+  mySystemApp.cpp
+  mySystemApp_draw.cpp
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(78): warning C4244: '正在初始化' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(88): warning C4244: '正在初始化' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(107): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(116): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(116): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(116): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(126): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(135): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(135): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(135): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(144): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(145): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(151): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(151): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(157): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(158): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(173): warning C4244: '引數' : 將 'double' 轉換為 'GLfloat'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(173): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(173): warning C4305: '引數' : 從 'double' 轉換為 'GLfloat'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(175): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(181): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+  mySystemApp_HandleEvents.cpp
+  camera.cpp
+  opengl_stuff.cpp
+  painter_draw.cpp
+  openGLapp.cpp
+  openGLapp.events.cpp
+  openGLapp_draw.cpp
+  openGLapp_init.cpp
+  openGLapp_update.cpp
+  basic_tools.cpp
+  grid2D.cpp
+  provider.cpp
+  正在編譯...
+  vector3d.cpp
+  fileReader.cpp
+  imageReader.cpp
+  BG_grid2D.cpp
+  boardGame.cpp
+  painter.cpp
+  boardGameApp.cpp
+  freeCanvas2D.cpp
+  lattice_manager.cpp
+  paintingSystem.cpp
+  paintingSystemApp.cpp
+  paintingSystemApp_draw.cpp
+  paintingSystemApp_HandleEvents.cpp
+  texture.cpp
+  textureManager.cpp
+  textureManager_read.cpp
