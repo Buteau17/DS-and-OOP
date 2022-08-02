@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\user\Downloads\OOP Midterm2_noPassword\Project\Q2_MonteCarlo\Q2_MonteCarlo\main.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\OOP Midterm2_noPassword\Project\Q2_MonteCarlo\Q2_MonteCarlo\main.cpp(183,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Downloads\OOP Midterm2_noPassword\Project\Q2_MonteCarlo\Q2_MonteCarlo\main.cpp(221,20): warning C4018: '<': signed/unsigned mismatch
+  Q2_MonteCarlo.vcxproj -> C:\Users\user\Downloads\OOP Midterm2_noPassword\Project\Q2_MonteCarlo\Debug\Q2_MonteCarlo.exe
