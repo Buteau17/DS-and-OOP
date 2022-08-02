@@ -1,0 +1,101 @@
+﻿  myBasicTools.cpp
+  mySystem_2048.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_2048_draw.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(70,35): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(95,43): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(205,73): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(205,33): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,43): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,34): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,25): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(251,31): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  mySystem_GraphSystem.cpp
+  mySystem_GraphSystem_draw.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(21,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(44,52): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(60,13): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(58,17): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(74,9): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(72,13): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_ImageEditor.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor.cpp(35,22): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_ImageEditor_draw.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(18,29): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(18,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(30,34): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(30,25): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(53,28): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  basic_app.cpp
+  main.cpp
+  mySystemApp.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp(70,39): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp(73,30): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  mySystemApp_draw.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(103,29): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(103,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(106,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(106,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(108,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(108,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  mySystemApp_HandleEvents.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(74,9): warning C4101: 'numSamples': 未參考的區域變數
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(73,12): warning C4101: 'area': 未參考的區域變數
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(101,9): warning C4101: 'numSamples': 未參考的區域變數
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(100,12): warning C4101: 'area': 未參考的區域變數
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(119,9): warning C4101: 'numSamples': 未參考的區域變數
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(118,12): warning C4101: 'area': 未參考的區域變數
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(187,45): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(194,31): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(201,44): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(228,47): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  camera.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\openGLbasic\camera.cpp(57,19): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  opengl_stuff.cpp
+  painter_draw.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  openGLapp.cpp
+  openGLapp.events.cpp
+  openGLapp_draw.cpp
+  openGLapp_init.cpp
+  openGLapp_update.cpp
+  正在編譯...
+  basic_tools.cpp
+  grid2D.cpp
+  provider.cpp
+  vector3d.cpp
+  fileReader.cpp
+  imageReader.cpp
+  BG_grid2D.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  boardGame.cpp
+  painter.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  boardGameApp.cpp
+  freeCanvas2D.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  lattice_manager.cpp
+  paintingSystem.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp_draw.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  paintingSystemApp_HandleEvents.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  texture.cpp
+  textureManager.cpp
+  textureManager_read.cpp
+D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\textureManager\textureManager_read.cpp(46,12): warning C4834: 正在捨棄具有 'nodiscard' 屬性之函式的傳回值
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\Release\SelfMotivatedSystem.exe) 與 Linker 的 OutputFile 屬性值 (D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\bin\Release\SelfMotivatedSystem.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 393 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  asm.vcxproj -> D:\NYCU\OOP\Final\Programming Exam\OOP_Exam_20220616_Student_Version\OOP_Exam_20220616_Template_NET2019\Release\SelfMotivatedSystem.exe
