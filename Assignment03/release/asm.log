@@ -1,0 +1,13 @@
+﻿  mySystem_ImageEditor_draw.cpp
+D:\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(18,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(18,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(30,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(30,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(53,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(D:\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\Release\SelfMotivatedSystem.exe) does not match the Linker's OutputFile property value (D:\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\bin\Release\SelfMotivatedSystem.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  12 of 595 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  asm.vcxproj -> D:\hw03_202204\hw03_202204\OOP_HW03_202204_Template_NET2019\Release\SelfMotivatedSystem.exe
